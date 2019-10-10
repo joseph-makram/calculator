@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jojomak13.github.io/calculator",
+  "homepage": "http://joseph-makram.github.io/calculator",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
